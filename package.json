@@ -23,6 +23,7 @@
     "debug": "^2.6.3",
     "express": "^4.15.2",
     "randombytes": "^2.0.3",
+    "simple-websocket": "^5.0.0",
     "ws": "^2.2.2"
   }
 }
