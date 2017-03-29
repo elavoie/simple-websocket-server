@@ -21,6 +21,7 @@
   "homepage": "https://github.com/elavoie/simple-websocket-server#readme",
   "dependencies": {
     "debug": "^2.6.3",
+    "express": "^4.15.2",
     "randombytes": "^2.0.3",
     "ws": "^2.2.2"
   }
