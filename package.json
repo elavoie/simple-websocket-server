@@ -1,0 +1,27 @@
+{
+  "name": "simple-websocket-server",
+  "version": "1.0.0",
+  "description": "server for testing websocket connections",
+  "main": "src/index.js",
+  "bin": {
+    "simple-websocket-server": "client.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elavoie/simple-websocket-server.git"
+  },
+  "author": "Erick Lavoie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elavoie/simple-websocket-server/issues"
+  },
+  "homepage": "https://github.com/elavoie/simple-websocket-server#readme",
+  "dependencies": {
+    "debug": "^2.6.3",
+    "randombytes": "^2.0.3",
+    "ws": "^2.2.2"
+  }
+}
